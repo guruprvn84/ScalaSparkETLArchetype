@@ -44,5 +44,5 @@ Challenges:
 7) ***Break silos*** : It should also help us to get the best from every team and am sure this template has more changes to go through and to become even more robust.
 
 
-#Please refer to ScalaSparkETLArchetype.docx available under root for more information on Design, Adoption
+# Please refer to ScalaSparkETLArchetype.docx available under root for more information on Design, Adoption
 
